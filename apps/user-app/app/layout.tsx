@@ -7,7 +7,7 @@ import { AppbarClient } from "../components/AppBarClient";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "WalletHub",
+  title: "InstaCash",
   description: "Secure and smart digital wallet solution.",
 };
 
